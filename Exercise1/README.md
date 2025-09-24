@@ -1,5 +1,5 @@
 # Shop Billing System Project
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d2fadbb9-7586-472d-bbd5-deff02ec806a" />
+
 
 A hands-on Python project that demonstrates practical data handling for a simple shop billing scenario. This project shows how to work with different data types and structures while managing product sales information.
 
