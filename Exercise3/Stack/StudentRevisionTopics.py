@@ -1,0 +1,11 @@
+print("\nWelcome To Student Revision Topics Recorder\n")
+revision_topics = []
+revision_topics.append("Maths")
+revision_topics.append("English")
+revision_topics.append("ICT")
+print(f"Previuos revision topics: {revision_topics}\n")
+revision_topics.pop()
+print(f"After a single pop, the current revision topics are: {revision_topics}\n")
+revision_topics.append("Biology")
+print(f"After pushing Biology, the current revision topics are: {revision_topics}\n")
+print(f"Currently, the top element in the revision topics stack is: {revision_topics[-1]}\n")
