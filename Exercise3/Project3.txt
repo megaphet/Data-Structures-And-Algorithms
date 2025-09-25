@@ -1,0 +1,17 @@
+ Project 3
+ Stack Questions:
+ • Practical (Rwanda): In a MoMo Pay transaction, push ["Enter Amount", "Enter 
+PIN", "Confirm"]. Pop once to cancel. Which step remains at top?
+ • Practical (Rwanda): A student records revision topics: push ["Math", "English", 
+"ICT"]. Pop once and push "Biology". What is the current top?
+ • Challenge: Show how a stack can validate balanced brackets for (2+3)*(4-1).
+ • Reflection: Why do many apps use stacks for undo features instead of queues?
+ Queue Questions:
+ • Practical (Rwanda): In a UR library, students queue to borrow books. After 3 
+join and 1 is served, who remains at the front?
+ • Practical (Rwanda): At Airtel service center, 6 customers request SIM swaps. 
+Who will be the 2nd served?
+ • Challenge: Compare performance of linear vs circular queue in a bus ticketing 
+system. Which is more efficient?
+• Reflection: Why do queues better model fairness in everyday Rwanda services 
+like banking and transport?
