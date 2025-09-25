@@ -1,3 +1,5 @@
+print("Welcome to the Simple Shop Billing System\v")
+
 quantities = [6, 10, 17, 3, 90]
 total = sum(quantities)
 average = total / len(quantities)
