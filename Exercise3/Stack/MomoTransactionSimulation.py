@@ -1,4 +1,4 @@
-print("Welcome to simple Momo Transaction Simulation")
+print("\nThis simple program uses stack data structure 'transaction' to simulate a mobile money transaction and once a user confirms their pin with the wrong one, the program pops the latest input and prints the item left at the top of the transaction stack\n")
 transaction = []
 print("Enter the payment amount:")
 amount = int(input())

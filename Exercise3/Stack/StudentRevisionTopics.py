@@ -1,4 +1,4 @@
-print("\nWelcome To Student Revision Topics Recorder\n")
+print("\nThis simple program uses the stack data structure revision_topics to simulate a student's revision log. It records subjects as they are added, removes the most recent one when popped, pushes 'Biology' and finally displays the current top subject in the revision stack.\n")
 revision_topics = []
 revision_topics.append("Maths")
 revision_topics.append("English")

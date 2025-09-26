@@ -1,3 +1,4 @@
+print("\nThis simple program uses a queue structure to simulate a queue at the UR library and prints the student at the front after the first one has been served.\n")
 from collections import deque
 
 # Initial queue
@@ -14,4 +15,4 @@ served = library_queue.popleft()
 # Who is now at the front?
 front = library_queue[0]
 print(f"Served: {served}")
-print(f"Now at front: {front}")
+print(f"Now at front there is: {front}")
