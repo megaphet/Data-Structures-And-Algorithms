@@ -15,3 +15,5 @@ Who will be the 2nd served?
 system. Which is more efficient?
 • Reflection: Why do queues better model fairness in everyday Rwanda services 
 like banking and transport?
+
+ANSWERS TO THESE QUESTIONS ARE IN THE FOLDERS "STACK" FOR STACK RELATED AND "QUEUE" AND FOR QUEUE RELATED
